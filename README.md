@@ -1,4 +1,4 @@
-## Matthew Lee
+<img src="https://user-images.githubusercontent.com/30479162/160275817-3f580f00-b53d-4cb6-b624-f40ac1370b31.png" alt="overlaplogo" width="450"/>
 
 Hi, I'm Matthew. I'm a 21-year-old software developer and recent MSc graduate who enjoys building things, usually with code. 
 
@@ -9,6 +9,7 @@ My most popular repos:
 
 Typically you can find me either enamored with a shiny new thing for my development toolset, poring over the details of a software project, or writing about various human-adjacent topics. Feel free to get in touch [via email](mailto:fmmmlee@gmail.com) or on Discord at admiralnerf#0133.
 
+Curious about the logo? It's just part of my name — last name 李, middle name 伟明 — with all the characters overlaid on top of one another.
 <!--
 **fmmmlee/fmmmlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
