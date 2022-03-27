@@ -1,4 +1,13 @@
-### Hi there 👋
+### Matthew Lee
+
+Hi, I'm Matthew. I'm a 21-year-old software developer and recent MSc graduate who enjoys building things, usually with code. 
+
+My most popular repos: 
+
+- [GW2 Addon Manager](https://github.com/gw2-addon-loader/GW2-Addon-Manager)
+- [D2Solo](https://github.com/fmmmlee/D2Solo)
+
+Typically you can find me either enamored with a shiny new thing for my development toolset, poring over the details of a software project, or writing about various human-adjacent topics. Feel free to get in touch [via email](mailto:fmmmlee@gmail.com) or on Discord at admiralnerf#0133.
 
 <!--
 **fmmmlee/fmmmlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
