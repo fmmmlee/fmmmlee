@@ -1,4 +1,4 @@
-### Matthew Lee
+## Matthew Lee
 
 Hi, I'm Matthew. I'm a 21-year-old software developer and recent MSc graduate who enjoys building things, usually with code. 
 
