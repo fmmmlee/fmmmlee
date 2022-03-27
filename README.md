@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/30479162/160275817-3f580f00-b53d-4cb6-b624-f40ac1370b31.png" alt="overlaplogo" width="450"/>
+<img src="https://user-images.githubusercontent.com/30479162/160276015-a0cdf752-c6ae-423c-a755-6a11fe28e9e6.png" alt="overlaplogo" width="450"/>
 
 Hi, I'm Matthew. I'm a 21-year-old software developer and recent MSc graduate who enjoys building things, usually with code. 
 
