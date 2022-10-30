@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/30479162/160323802-a9ac16eb-9097-42fe-ba4a-ed53634f4ce3.png" alt="overlaplogo" width="325"/>
 
-Hi, I'm Matthew. I'm a 21-year-old software developer and recent MSc graduate who enjoys building things, usually with code. 
+Hi, I'm Matthew. I'm a 22-year-old software developer and recent MSc graduate who enjoys building things, usually with code.
 
 My most popular repos: 
 
 - [GW2 Addon Manager](https://github.com/gw2-addon-loader/GW2-Addon-Manager)
 - [D2Solo](https://github.com/fmmmlee/D2Solo)
 
-Typically you can find me either enamored with a shiny new thing for my development toolset, poring over the details of a software project, or writing about various human-adjacent topics. Feel free to get in touch [via email](mailto:fmmmlee@gmail.com) or on Discord at admiralnerf#0133.
+If I'm not working (currently at Epic, working on their data exchange platform), you can typically find me either enamored with a shiny new thing for my development toolset, poring over the details of a software project, or writing about various human-adjacent topics. If you want to get in touch, feel free to contact me [via email](mailto:fmmmlee@gmail.com).
 
 Curious about the logo? It's just part of my name — last name 李, middle name 伟明 — with all the characters overlaid on top of one another.
 <!--
