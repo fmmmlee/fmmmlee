@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/30479162/160323802-a9ac16eb-9097-42fe-ba4a-ed53634f4ce3.png" alt="overlaplogo" width="325"/>
+<!--<img src="https://user-images.githubusercontent.com/30479162/160323802-a9ac16eb-9097-42fe-ba4a-ed53634f4ce3.png" alt="overlaplogo" width="325"/>-->
 
 I enjoy building things, usually with code.
 
